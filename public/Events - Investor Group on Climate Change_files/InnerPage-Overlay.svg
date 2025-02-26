@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="672" height="154" viewBox="0 0 672 154">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_898" data-name="Rectangle 898" width="672" height="154" transform="translate(608 210)" fill="#fff" stroke="#707070" stroke-width="1"></rect>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_83" data-name="Rectangle 83" width="692.762" height="152.175" fill="none" stroke="#d1d4ca" stroke-width="4"></rect>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_83-2" data-name="Rectangle 83" width="692.762" height="152.175" fill="none" stroke="#eff2f3" stroke-width="4"></rect>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_26" data-name="Mask Group 26" transform="translate(-608 -210)" clip-path="url(#clip-path)">
+    <g id="Group_10197" data-name="Group 10197">
+      <g id="Group_37" data-name="Group 37" transform="translate(607.731 227.523)" opacity="0.6">
+        <g id="Group_36" data-name="Group 36" transform="translate(0)" clip-path="url(#clip-path-2)">
+          <path id="Path_39" data-name="Path 39" d="M289.045,47.828C231.86,54.066,129.966,55.106,0,0" transform="translate(403.145 49.68)" fill="none" stroke="#d1d4ca" stroke-miterlimit="10" stroke-width="4"></path>
+          <path id="Path_40" data-name="Path 40" d="M398.216,44.477C280.727-5.43,175.714-13.748,102.933,21.6,55.106,44.477,19.755,86.066,0,145.331" transform="translate(4.928 5.203)" fill="none" stroke="#d1d4ca" stroke-miterlimit="10" stroke-width="4"></path>
+        </g>
+      </g>
+      <g id="Group_46" data-name="Group 46" transform="translate(816.924 334.707)">
+        <g id="Group_36-2" data-name="Group 36" transform="translate(0 0)" clip-path="url(#clip-path-3)">
+          <path id="Path_40-2" data-name="Path 40" d="M308.683,38.356C198.238-5.263,97.377-12.589,28.09,21.065,19,25.411,8.325,32.624,0,38.426" transform="translate(79.772 5.742)" fill="none" stroke="#eff2f3" stroke-miterlimit="10" stroke-width="4"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

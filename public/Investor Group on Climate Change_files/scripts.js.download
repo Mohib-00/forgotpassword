@@ -1,0 +1,22 @@
+(function ($) {
+  // Wrapping select elements with select-wrapper class
+  function wrapSelectElements() {
+    $('select').wrap('<div class="select-wrapper"></div>');
+  }
+
+  // Function to be called after AJAX request
+  function applyScriptAfterAjax() {
+    // Add your additional scripts or actions here
+    wrapSelectElements(); // Reapply wrapping to newly loaded select elements
+  }
+
+  // Detects when the AJAX request has finished and the content has been updated
+  $(document).on("sf:ajaxfinish", ".searchandfilter", function(){
+    applyScriptAfterAjax(); // Call the function to apply scripts after AJAX
+  });
+
+  // Wrapping select elements on initial load
+  $(document).on("sf:init", ".searchandfilter", function(){
+    wrapSelectElements(); // Wrap select elements on initial load
+  });
+})(jQuery);
