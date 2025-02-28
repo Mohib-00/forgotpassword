@@ -92,6 +92,7 @@
                 <div class="card">
                   <div class="card-header">
                     <div class="d-flex align-items-center">
+                        {{--<button class="addsettingsbtn">Add Row</button>--}}
                       <h4 class="card-title">Messages</h4>
                     </div>
                   </div>

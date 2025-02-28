@@ -5,7 +5,7 @@
       content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
       name="viewport"
     />
-    <link rel="icon" href="{{asset('lite/assets/img/kaiadmin/favicon.ico')}}" type="image/x-icon"/>
+    <link rel="icon" href="{{asset('Investor Group on Climate Change_files/logix.png')}}">
     <script src="{{asset('lite/assets/js/plugin/webfont/webfont.min.js')}}"></script>
     <script>
       WebFont.load({

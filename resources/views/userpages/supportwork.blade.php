@@ -156,7 +156,7 @@
       <div class="row align-items-center">
 
         <div class="col-12">
-          <h2>Why Support IGCC?</h2>
+          <h2>Why Support Logix 199?</h2>
           <div class="row">
             @if ($support2s->isNotEmpty())
             @foreach($support2s as $support2)

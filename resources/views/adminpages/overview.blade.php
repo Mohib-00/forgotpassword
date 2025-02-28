@@ -321,7 +321,6 @@
                 success: function(response) {
                     $('#loader').fadeOut(300);
                     if (response.success) {
-                        $('.addoverview').show();
                         row.remove(); 
                         Swal.fire(
                             'Deleted!',
@@ -397,7 +396,6 @@
                        `;
    
                        $('table tbody').append(newRow);
-                       $('.addoverview').hide();
                    });
                }
            },

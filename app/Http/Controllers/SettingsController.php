@@ -20,7 +20,7 @@ class SettingsController extends Controller
         'name' => 'nullable|required|string|max:255',
         'email' => 'nullable|required|email',
         'address' => 'nullable|string|max:255',
-        'phone' => 'nullable|numeric',
+        'phone' => 'nullable|',
         'about_paragraph' => 'nullable|string|max:1000',
     ]);
 

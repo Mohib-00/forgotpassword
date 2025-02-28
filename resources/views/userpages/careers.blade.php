@@ -135,7 +135,7 @@
         <div class="content-section-inner default-padding pr-md-4 pr-lg-0 default">
           <div class="row mr-lg-0 align-items-stretch">
             @if ($careers->isNotEmpty())
-            @foreach($careers->take(1) as $career)
+            @foreach($careers as $career)
             <div class="col-12 col-lg-8 pr-lg-5">
               <div class="limit-width">
                 <h2 style="text-align: left">{{$career->heading}}</h2>
